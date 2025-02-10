@@ -1,0 +1,33 @@
+{
+    "variables": [
+        {
+            "label": "x_1", 
+            "bounds": [-1, 1],
+            "radius": 0.1
+        },
+        
+        {
+            "label": "x_2", 
+            "bounds": [-1, 1],
+            "radius": 0.1
+        },
+        
+        {
+            "label": "x_3", 
+            "bounds": [-1, 1],
+            "radius": 0.1
+        },
+        
+        {
+            "label": "x_4", 
+            "bounds": [-1, 1],
+            "radius": 0.1
+        },
+        
+        {
+            "label": "x_5", 
+            "bounds": [-1, 1],
+            "radius": 0.1
+        }
+    ]
+}
